@@ -3,13 +3,13 @@
 A responsive one-page website for a furniture store selling space-saving products.
 
 ## What's Inside
-- Single HTML file (`index.html`)
+- Single HTML file (`index4.html`)
 - CSS for styling (`styles.css`)
 - JavaScript for interactivity (`script.js`)
 
 ## How to Use
 1. Download the 3 files
-2. Open `index.html` in any web browser
+2. Open `index4.html` in any web browser
 3. That's it!
 
 ## Customize
